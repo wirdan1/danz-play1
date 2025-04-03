@@ -27,7 +27,7 @@ export default function MusicPlayer() {
     { title: "ɴᴏᴛ ʏᴏᴜ", url: "https://files.catbox.moe/528353.mp3" },
     { title: "ᴋᴜʀᴇʟᴀᴋᴀɴ ᴇɴɢᴋᴀᴜ ᴘᴇʀɢɪ", url: "https://files.catbox.moe/uzz08l.mp3" },
     { title: "ᴅᴊ sɪᴜʟ", url: "https://files.catbox.moe/k5wc5t.mp3" },
-    { title: "ᴘᴀʟᴇ-ᴘᴀʟᴇ × ᴡᴀɴᴀ", url: "https://files.catbox.moe/0dysvm.mp3" },
+    { title: "ᴘᴀʟᴇ × ᴡᴀɴᴀ", url: "https://files.catbox.moe/0dysvm.mp3" },
     { title: "ᴘᴇʟᴜᴋ ᴇʀᴀᴛ", url: "https://files.catbox.moe/0dysvm.mp3" },
     { title: "ᴛᴇʀʙᴀɴɢ ʙᴇʀsᴀᴍᴀᴋᴜ", url: "https://files.catbox.moe/1g6dut.mp3" },
     { title: "ᴀᴜʀᴀʜ ʙᴇʀᴋᴀsɪʜ", url: "https://files.catbox.moe/78vzur.mp3" },
