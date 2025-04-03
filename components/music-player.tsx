@@ -23,6 +23,15 @@ export default function MusicPlayer() {
 
   const songs: Song[] = [
     { title: "ᴅᴇᴀᴛʜ ʙᴇᴛ", url: "https://files.catbox.moe/q3t8vc.mp3" },
+    { title: "ᴀʜᴅᴀʟ ᴀʜʙᴇᴋ", url: "https://files.catbox.moe/059gti.mp3" },
+    { title: "ɴᴏᴛ ʏᴏᴜ", url: "https://files.catbox.moe/528353.mp3" },
+    { title: "ᴋᴜʀᴇʟᴀᴋᴀɴ ᴇɴɢᴋᴀᴜ ᴘᴇʀɢɪ", url: "https://files.catbox.moe/uzz08l.mp3" },
+    { title: "ᴅᴊ sɪᴜʟ", url: "https://files.catbox.moe/k5wc5t.mp3" },
+    { title: "ᴘᴀʟᴇ-ᴘᴀʟᴇ × ᴡᴀɴᴀ", url: "https://files.catbox.moe/0dysvm.mp3" },
+    { title: "ᴘᴇʟᴜᴋ ᴇʀᴀᴛ", url: "https://files.catbox.moe/0dysvm.mp3" },
+    { title: "ᴛᴇʀʙᴀɴɢ ʙᴇʀsᴀᴍᴀᴋᴜ", url: "https://files.catbox.moe/1g6dut.mp3" },
+    { title: "ᴀᴜʀᴀʜ ʙᴇʀᴋᴀsɪʜ", url: "https://files.catbox.moe/78vzur.mp3" },
+    { title: "ᴅᴇᴀᴛʜ ʙᴇᴛ", url: "https://files.catbox.moe/q3t8vc.mp3" },
     { title: "ᴘᴀsᴛʟɪᴠᴇs", url: "https://files.catbox.moe/t3fqam.mp3" },
     { title: "ʀᴜɴᴀᴡᴀʏ", url: "https://files.catbox.moe/48jji0.mp3" },
     { title: "ᴘʟᴀʏ ( alan walker )", url: "https://files.catbox.moe/k79gu6.mp3" },
