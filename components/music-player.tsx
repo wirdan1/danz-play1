@@ -50,7 +50,7 @@ export default function MusicPlayer() {
     { title: "ᴛᴇᴍᴏʟᴀ", url: "https://files.catbox.moe/p0yr8g.mp3" },
     { title: "ᴋᴜᴛɪᴍᴀɴɢ ᴀᴅɪᴋᴋᴜ sᴀʏᴀɴɢ", url: "https://files.catbox.moe/x4o4mj.mp3" },
     { title: "ᴅᴀᴍᴏɴ ᴠᴀᴄᴀᴛɪᴏɴ", url: "https://files.catbox.moe/c5edok.mp3" },
-    { title: "sᴀ ᴅᴛᴏᴘ ᴍᴀʙᴏᴋ", url: "https://files.catbox.moe/unp0vc.mp3" },
+    { title: "sᴀ sᴛᴏᴘ ᴍᴀʙᴏᴋ", url: "https://files.catbox.moe/unp0vc.mp3" },
     { title: "ʙᴀʜᴀɴᴀ ᴘᴜɪ", url: "https://files.catbox.moe/kwvxpb.mp3" },
     { title: "ᴠᴀsᴛᴇ ʀᴇᴍɪx", url: "https://files.catbox.moe/7rzjlb.mp3" },
     { title: "ᴠᴀsᴛᴇ", url: "https://files.catbox.moe/8639rc.mp3" },
