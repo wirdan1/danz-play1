@@ -22,6 +22,17 @@ export default function MusicPlayer() {
   const [playbackRate, setPlaybackRate] = useState(1)
 
   const songs: Song[] = [
+    { title: "ɪ ʟᴏᴠᴇ ᴍᴀᴍᴀ ᴍᴀɴᴛᴜ", url: "https://files.catbox.moe/retx5l.mp3" },
+    { title: "ʟᴏsᴛ ᴄᴏɴᴛʀᴏʟ", url: "https://files.catbox.moe/os9iho.mp3" },
+    { title: "ᴅɪɴɢɪɴ ᴋᴇʀɪɴɢᴀᴛᴀɴ", url: "https://files.catbox.moe/qtilhm.mp3" },
+    { title: "ᴊᴀᴍɪʟᴀ", url: "https://files.catbox.moe/gxnqc2.mp3" },
+    { title: "ʜᴜᴊᴀɴ ʙᴀᴅᴀɪ ᴀɴɢɪɴ ʀɪʙᴜᴛ", url: "https://files.catbox.moe/ym8l28.mp3" }, // ʙᴀᴛᴀᴢᴢᴢᴢᴢᴢ
+    { title: "ʟᴏs ᴅᴏʟ", url: "https://files.catbox.moe/j75o80.mp3" },
+    { title: "ɪɴᴊᴀɴɢ ᴅɪ ᴅᴀᴅᴀ", url: "https://files.catbox.moe/m8xx96.mp3" },
+    { title: "ᴀɪsʜᴛᴇʀᴜ 2", url: "https://files.catbox.moe/c8f9kw.mp3" },
+    { title: "sᴇᴋᴇᴄᴇᴡᴀ ɪᴛᴜ", url: "https://files.catbox.moe/x1q5k1.mp3" },
+    { title: "ᴇʟɪᴛᴇ ᴄs", url: "https://files.catbox.moe/8niveh.mp3" },
+    { title: "ᴇʟɪᴛᴇ ᴄs", url: "https://files.catbox.moe/e1ctf4.mp3" }, // batassss
     { title: "ʟᴏᴠᴇ ɴᴡᴀɴᴛɪᴛɪ", url: "https://files.catbox.moe/3f9770.mp3" },
     { title: "ʙᴇғᴏʀᴇ ʏᴏᴜ ɢᴏ", url: "https://files.catbox.moe/04xfzr.mp3" },
     { title: "ʙᴀᴅ ʟɪᴀʀ", url: "https://files.catbox.moe/q67gjd.mp3" },
@@ -50,7 +61,7 @@ export default function MusicPlayer() {
     { title: "ᴛᴇᴍᴏʟᴀ", url: "https://files.catbox.moe/p0yr8g.mp3" },
     { title: "ᴋᴜᴛɪᴍᴀɴɢ ᴀᴅɪᴋᴋᴜ sᴀʏᴀɴɢ", url: "https://files.catbox.moe/x4o4mj.mp3" },
     { title: "ᴅᴀᴍᴏɴ ᴠᴀᴄᴀᴛɪᴏɴ", url: "https://files.catbox.moe/c5edok.mp3" },
-    { title: "sᴀ sᴛᴏᴘ ᴍᴀʙᴏᴋ", url: "https://files.catbox.moe/unp0vc.mp3" },
+    { title: "sᴀ ᴅᴛᴏᴘ ᴍᴀʙᴏᴋ", url: "https://files.catbox.moe/unp0vc.mp3" },
     { title: "ʙᴀʜᴀɴᴀ ᴘᴜɪ", url: "https://files.catbox.moe/kwvxpb.mp3" },
     { title: "ᴠᴀsᴛᴇ ʀᴇᴍɪx", url: "https://files.catbox.moe/7rzjlb.mp3" },
     { title: "ᴠᴀsᴛᴇ", url: "https://files.catbox.moe/8639rc.mp3" },
